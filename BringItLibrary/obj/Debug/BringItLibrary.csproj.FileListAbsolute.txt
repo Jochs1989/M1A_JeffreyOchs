@@ -1,0 +1,12 @@
+C:\Users\Null\Desktop\M1A_JeffreyOchs\BringItLibrary\bin\Debug\BringItLibrary.dll
+C:\Users\Null\Desktop\M1A_JeffreyOchs\BringItLibrary\bin\Debug\BringItLibrary.pdb
+C:\Users\Null\Desktop\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.csprojAssemblyReference.cache
+C:\Users\Null\Desktop\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Null\Desktop\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.dll
+C:\Users\Null\Desktop\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.pdb
+C:\Users\Null\Documents\GitHub\Capstone\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.csprojAssemblyReference.cache
+C:\Users\Null\Documents\GitHub\Capstone\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Null\Documents\GitHub\Capstone\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.dll
+C:\Users\Null\Documents\GitHub\Capstone\M1A_JeffreyOchs\BringItLibrary\obj\Debug\BringItLibrary.pdb
+C:\Users\Null\Documents\GitHub\Capstone\M1A_JeffreyOchs\BringItLibrary\bin\Debug\BringItLibrary.dll
+C:\Users\Null\Documents\GitHub\Capstone\M1A_JeffreyOchs\BringItLibrary\bin\Debug\BringItLibrary.pdb
